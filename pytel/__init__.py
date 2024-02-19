@@ -82,7 +82,8 @@ try:
     from .client import (
         PytelClient,)
     from .config import (
-        API_HASH, API_ID,
+        API_ID,
+        API_HASH,
         SESSION1,
         SESSION2,
         SESSION3,
@@ -288,7 +289,7 @@ try:
     from pyrogram import (
         Client,)
 
-    pytel_tgb = Client(
+    pytel_bot = Client(
         name="pytel_bot",
         api_id=API_ID,
         api_hash=API_HASH,
