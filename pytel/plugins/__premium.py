@@ -407,9 +407,9 @@ Want to be extended? wait until it expires.
 <b>Note:</b>
 Tekan Tombol Generate Session 🚀
 Untuk membuat String Session Pyrogram,
-Lalu aktifkan PYTEL-Premium.
+Lalu aktifkan UBot-Premium.
 
-(c) @kastaid #pytel
+(c) #Dev
 """
     await _try_purged(
         xy, 1.5
